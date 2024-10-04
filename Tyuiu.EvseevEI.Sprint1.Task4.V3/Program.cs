@@ -33,9 +33,7 @@ namespace Tyuiu.EvseevEI.Sprint1.Task4.V3
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                                                                  *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine( ""ds.(x,y));
-
-            Console.ReadKey();
+            int res = Convert.ToInt32(ds.Calculate(x, y));         Console.ReadKey();
 
 
 

@@ -5,8 +5,10 @@ namespace Tyuiu.EvseevEI.Sprint1.Task5.V2.Lib
     {
         public int FahrenheitToСelsius(double temp)
         {
-            double res = temp - 32;
+            double res = ((temp - 32) / (1.8));
             return (int)res;
         }
     }
 }
+
+  
