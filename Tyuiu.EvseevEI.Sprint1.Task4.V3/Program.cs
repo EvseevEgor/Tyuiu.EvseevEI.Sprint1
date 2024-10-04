@@ -16,9 +16,9 @@ namespace Tyuiu.EvseevEI.Sprint1.Task4.V3
             Console.WriteLine("* Выполнил: Евсеев Егор Игоревич | ИИПБ-24-2                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                                                                    *");
-            Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные,      *");
-            Console.WriteLine("* вычисляет результат по формуле и печатает его на экране.                                      *");
-            Console.WriteLine("*                                                                                                                                         *");
+            Console.WriteLine("* Написать программу, которая решает следующую задачу: Дано значение             *");
+            Console.WriteLine("* температуры в градусах Фаренгейта. Определить значение этой же температуры*");
+            Console.WriteLine("*  в градусах Цельсия. Ответ привести к целому с помощью класса Convert.           *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                                                              *");
             Console.WriteLine("***************************************************************************");
@@ -33,7 +33,7 @@ namespace Tyuiu.EvseevEI.Sprint1.Task4.V3
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                                                                  *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine( ""ds.Calculate(x,y));
+            Console.WriteLine( ""ds.(x,y));
 
             Console.ReadKey();
 
