@@ -55,9 +55,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{4C5E33BC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.EvseevEI.Sprint1.Task6.V6", "Tyuiu.EvseevEI.Sprint1.Task6.V6\Tyuiu.EvseevEI.Sprint1.Task6.V6.csproj", "{3FD64F54-76BA-429B-8078-F98C2CCE3C57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.EvseevEI.Sprint1.Task6.V6.Test", "Tyuiu.EvseevEI.Sprint1.Task6.V6.Test\Tyuiu.EvseevEI.Sprint1.Task6.V6.Test.csproj", "{23319468-50B6-4CA9-8F13-2F7DC2819E65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.EvseevEI.Sprint1.Task6.V6.Test", "Tyuiu.EvseevEI.Sprint1.Task6.V6.Test\Tyuiu.EvseevEI.Sprint1.Task6.V6.Test.csproj", "{23319468-50B6-4CA9-8F13-2F7DC2819E65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.EvseevEI.Sprint1.Task6.V6.Lib", "Tyuiu.EvseevEI.Sprint1.Task6.V6.Lib\Tyuiu.EvseevEI.Sprint1.Task6.V6.Lib.csproj", "{B9FE99D0-11A9-42B8-B861-E45257BD4895}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.EvseevEI.Sprint1.Task6.V6.Lib", "Tyuiu.EvseevEI.Sprint1.Task6.V6.Lib\Tyuiu.EvseevEI.Sprint1.Task6.V6.Lib.csproj", "{B9FE99D0-11A9-42B8-B861-E45257BD4895}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{6C097520-0E4E-432F-A65F-E915AA0C8222}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.EvseevEI.Sprint1.Task7.V2", "Tyuiu.EvseevEI.Sprint1.Task7.V2\Tyuiu.EvseevEI.Sprint1.Task7.V2.csproj", "{CEE74934-59A4-43EC-B731-F6F00FC69581}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.EvseevEI.Sprint1.Task7.V2.Lib", "Tyuiu.EvseevEI.Sprint1.Task7.V2.Lib\Tyuiu.EvseevEI.Sprint1.Task7.V2.Lib.csproj", "{3905BA55-73C9-46D3-81F4-826BB81415D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.EvseevEI.Sprint1.Task7.V2.Test", "Tyuiu.EvseevEI,Sprint1.Task7.V2.Test\Tyuiu.EvseevEI.Sprint1.Task7.V2.Test.csproj", "{43076E33-EF47-463B-B4CC-BE68197C305A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -149,6 +157,18 @@ Global
 		{B9FE99D0-11A9-42B8-B861-E45257BD4895}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9FE99D0-11A9-42B8-B861-E45257BD4895}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9FE99D0-11A9-42B8-B861-E45257BD4895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE74934-59A4-43EC-B731-F6F00FC69581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE74934-59A4-43EC-B731-F6F00FC69581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE74934-59A4-43EC-B731-F6F00FC69581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE74934-59A4-43EC-B731-F6F00FC69581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3905BA55-73C9-46D3-81F4-826BB81415D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3905BA55-73C9-46D3-81F4-826BB81415D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3905BA55-73C9-46D3-81F4-826BB81415D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3905BA55-73C9-46D3-81F4-826BB81415D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43076E33-EF47-463B-B4CC-BE68197C305A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43076E33-EF47-463B-B4CC-BE68197C305A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43076E33-EF47-463B-B4CC-BE68197C305A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43076E33-EF47-463B-B4CC-BE68197C305A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -175,6 +195,9 @@ Global
 		{3FD64F54-76BA-429B-8078-F98C2CCE3C57} = {4C5E33BC-0988-47D8-BA32-4DA73C045F92}
 		{23319468-50B6-4CA9-8F13-2F7DC2819E65} = {4C5E33BC-0988-47D8-BA32-4DA73C045F92}
 		{B9FE99D0-11A9-42B8-B861-E45257BD4895} = {4C5E33BC-0988-47D8-BA32-4DA73C045F92}
+		{CEE74934-59A4-43EC-B731-F6F00FC69581} = {6C097520-0E4E-432F-A65F-E915AA0C8222}
+		{3905BA55-73C9-46D3-81F4-826BB81415D5} = {6C097520-0E4E-432F-A65F-E915AA0C8222}
+		{43076E33-EF47-463B-B4CC-BE68197C305A} = {6C097520-0E4E-432F-A65F-E915AA0C8222}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F73D33B-BAE2-4553-9E9D-BF2A5720FC20}
